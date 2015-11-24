@@ -42,13 +42,17 @@ h4 {
 }
 
 #addressline1 {
-  padding-left: 105px;
+  padding-left: 80px;
 }
 
 #addressline2 {
-  padding-left: 100px;
+  padding-left: 70px;
 }
 
 #phonenumber {
-  padding-left: 80px;
+  padding-left: 100px;
+}
+
+#emailaddress {
+  padding-left: 100px;
 }
