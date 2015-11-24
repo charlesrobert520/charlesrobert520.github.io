@@ -14,10 +14,12 @@ h1 {
 
 #about {
   margin-left: 200px;
+  margin-bottom: 10px;
 }
 
 #testimonials{
   margin-left: 205px;
+  margin-bottom: 10px;
 }
 
 p {
@@ -74,5 +76,5 @@ h4 {
 }
 
 #homerow {
-  padding-top: 50px;
+  padding-top: 25px;
 }
