@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
+@import url(https://fonts.googleapis.com/css?family=Anton);
+
+body {
+  font-family: 'Anton', sans-serif;
+}
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
