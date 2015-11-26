@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -90,4 +92,8 @@ h4 {
 
 #bookingbottomrow {
   padding-top: 50px;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
 }
