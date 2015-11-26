@@ -2,6 +2,8 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anton);
 
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
 body {
   font-family: 'Anton', sans-serif;
 }
@@ -35,6 +37,7 @@ p {
   padding-right: 30px;
   text-indent: 20px;
   font-size: 18px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 h4 {
