@@ -15,12 +15,12 @@ body {
 }
 
 h1 {
-  margin-left: 20px;
+  
   color: White;
 }
 
 #tagline {
-  margin-left: 10px;
+
 }
 
 #about {
@@ -89,7 +89,7 @@ h4 {
 }
 
 #homelink {
-  
+
   font-size: 20px;
   color: White;
 }
