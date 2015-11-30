@@ -38,7 +38,7 @@ p {
   text-indent: 20px;
   font-size: 18px;
   font-family: 'Droid Sans', sans-serif;
-  color: Crimson; 
+  color: Crimson;
 }
 
 h4 {
@@ -109,4 +109,8 @@ h4 {
 h3 {
   font-family: 'Lobster', cursive;
   color: #FFBE19
+}
+
+#heading {
+  background-color: Crimson;
 }
