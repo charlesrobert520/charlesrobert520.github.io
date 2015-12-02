@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  
+
   color: White;
 }
 
@@ -62,36 +62,43 @@ h4 {
 
 #addressline1 {
   padding-left: 90px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #addressline2 {
   padding-left: 75px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #phonenumber {
   padding-left: 105px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #emailaddress {
   padding-left: 45px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #booklink {
 
   font-size: 20px;
   color: White;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #eventslink {
 
   font-size: 20px;
   color: White;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #homelink {
 
   font-size: 20px;
   color: White;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #homerow {
