@@ -27,7 +27,7 @@ h1 {
 
 p {
 
-  
+
   font-size: 18px;
   font-family: 'Droid Sans', sans-serif;
   color: Crimson;
@@ -131,4 +131,12 @@ h5 {
 
 #testimonialspicture{
 
+}
+
+#aboutp {
+  text-indent: 20px;
+}
+
+#bookp {
+  text-indent: 20px;
 }
