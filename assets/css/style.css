@@ -111,7 +111,7 @@ h4 {
 h3 {
   font-family: 'Lobster', cursive;
   color: #FFBE19;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #heading {
@@ -124,6 +124,7 @@ h3 {
 
 h5 {
   color: MediumBlue;
+  font-size: 20px;
 }
 
 #aboutpicture {
