@@ -130,11 +130,13 @@ h5 {
 #aboutpicture {
   float: left;
   padding-right: 5px;
+  padding-top: 5px;
 }
 
 #testimonialspicture{
   float: left;
   padding-right: 5px;
+  padding-top: 5px;
 }
 
 #aboutp {
