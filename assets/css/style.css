@@ -67,7 +67,7 @@ h4 {
 }
 
 #emailaddress {
-  
+
   font-family: 'Droid Sans', sans-serif;
 }
 
@@ -111,6 +111,7 @@ h4 {
 h3 {
   font-family: 'Lobster', cursive;
   color: #FFBE19
+  font-size: 30px;
 }
 
 #heading {
