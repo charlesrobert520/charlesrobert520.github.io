@@ -129,18 +129,18 @@ h5 {
 
 #aboutpicture {
   float: left;
-  padding-right: 5px;
+  padding-right: 10px;
   padding-top: 5px;
 }
 
 #testimonialspicture{
   float: left;
-  padding-right: 5px;
+  padding-right: 10px;
   padding-top: 5px;
 }
 
 #aboutp {
-  text-indent: 20px;
+
   font-size: 20px;
 }
 
