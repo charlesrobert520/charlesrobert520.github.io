@@ -19,14 +19,10 @@ h1 {
   color: White;
 }
 
-#tagline {
-
-}
 
 
 
 p {
-
 
   font-size: 20px;
   font-family: 'Droid Sans', sans-serif;
@@ -40,17 +36,6 @@ h4 {
   font-size: 25px;
 }
 
-#mailbook {
-
-}
-
-#emailbook {
-
-}
-
-#phonebook {
-
-}
 
 #addressline1 {
 
@@ -97,9 +82,6 @@ h4 {
   padding-top: 25px;
 }
 
-#eventsrow {
-
-}
 
 #bookingtoprow {
   padding-top: 25px;
